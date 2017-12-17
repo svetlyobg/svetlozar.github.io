@@ -4,3 +4,7 @@ body.p {
 p.oblique {
     font-style: oblique;
 }
+p.warning {
+  font-style: oblique;
+  font-style: italic;
+}
