@@ -7,4 +7,5 @@ p.oblique {
 p.warning {
   font-style: oblique;
   font-style: italic;
+  font-size: 20px;
 }
