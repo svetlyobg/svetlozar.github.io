@@ -8,3 +8,8 @@ p.warning {
   font-style: italic;
   font-size: 30 px;
 }
+body {
+    display: inline-block;
+    margin: 0px auto;
+    text-align: center;
+}
