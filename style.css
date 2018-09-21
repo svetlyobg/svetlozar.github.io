@@ -20,7 +20,7 @@ h1{
 	font-size: 40px;
 }
 body.center {
-  /* text-align: center;*/
+  text-align: center;
 margin: auto;
     width: 50%;
      padding: 10px;
