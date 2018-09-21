@@ -1,7 +1,7 @@
 body.p {
     font-family: "Times New Roman", Times, serif;
     text-align: center;
-    font-size: 50px;
+    font-size: 20px;
 }
 p.oblique {
     font-style: oblique;
@@ -23,8 +23,7 @@ body.center {
   /* text-align: center;*/
 margin: auto;
     width: 50%;
-    border: 3px solid green;
-    padding: 10px;
+     padding: 10px;
 }
 
 div{
